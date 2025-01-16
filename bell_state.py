@@ -1,3 +1,6 @@
+#Qiskit is an open-source software development kit (SDK) for quantum computing. 
+#It's used to create, manipulate, and run quantum programs on IBM quantum computers and simulators. 
+
 from qiskit import QuantumCircuit, execute, Aer
 
 # Create a quantum circuit with 2 qubits
